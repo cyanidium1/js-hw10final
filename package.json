@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "cyanidium1.github.com/10dzjs",
+  "homepage": "cyanidium1.github.com/js-hw10final",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /10dzjs/"
+    "build": "parcel build src/*.html --public-url /js-hw10final/"
   },
   "repository": {
     "type": "git",
